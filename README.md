@@ -85,7 +85,7 @@ Click `Deploy to IBM Cloud` button above to deploy the application to IBM Cloud.
 be presented with a toolchain view and asked to "Deploy" the application. Go ahead and
 click `Deploy` button. The application should get deployed. Ensure that the application
 is started and that a service is created and bound to the application just deployed. <br/>
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/model-evaluation-workbench.git)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/expzonechennai1/model-evaluation-workbench.git)
 
 ##### 3.1.2 Deploy using Manual
 
